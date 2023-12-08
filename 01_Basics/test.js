@@ -1,0 +1,1 @@
+console.log('Learning Java-Script Repository config');
